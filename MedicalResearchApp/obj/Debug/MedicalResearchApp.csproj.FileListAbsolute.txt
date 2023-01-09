@@ -1,0 +1,2 @@
+D:\Dotnet Training\MedicalResearchApp\MedicalResearchApp\obj\Debug\MedicalResearchApp.csprojAssemblyReference.cache
+D:\Dotnet Training\MedicalResearchApp\MedicalResearchApp\obj\Debug\MedicalResearchApp.csproj.CoreCompileInputs.cache

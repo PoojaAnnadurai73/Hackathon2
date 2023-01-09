@@ -1,0 +1,5 @@
+﻿++++++++++++++++++++++++++ MEDICAL RESEARCH APP ++++++++++++++++++++++++++++
+
+TO ADD DISEASE TO SYSTEM -------------------> ENTER 1
+TO ADD SYMPTOMS TO SYSTEM ------------------> ENTER 2
+TO DIAGNOSE THE DISEASE---------------------> ENTER 3
